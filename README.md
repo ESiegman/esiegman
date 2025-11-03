@@ -1,4 +1,4 @@
-### Hi there, I'm Eren Siegman 👋
+### Hi there, I'm Eren Siegman
 
 <br>
 
@@ -21,7 +21,7 @@ I'm actively involved in leading student organizations at UCF, including IEEE, w
 
 ---
 
-### 🚀 Some Things I've Built
+### Some Things I've Built
 
 * **[Restful Knights](https://github.com/ESiegman/Restful-Knights)**: 1st place (Best Overall) hackathon winner for an AI-powered sleep screening platform using ROCm/HIP.
 * **[Undergraduate Research](https://esiegman.dev/research/limb)**: Wearable thermal haptic feedback system for VR using MuJoCo, OpenGL, and custom hardware.
