@@ -13,7 +13,7 @@ I am a Computer Science major at the University of Central Florida and an AMD Un
 - Chair of the IEEE Engineering in Medicine and Biology Society at UCF.
 - Project Chair of IEEE at UCF.
 - Member of Hack@UCF.
-- Champion of KnightHacks VIII.
+- First place at KnightHacks VIII.
 
 ---
 
